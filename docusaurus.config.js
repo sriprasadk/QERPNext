@@ -68,8 +68,8 @@ const config = {
       navbar: {
         title: 'QuestArc ERP',
         logo: {
-          alt: 'QuestArc ERP Logo',
-          src: 'img/questarcerp.jpg',
+          alt: '',
+          src: 'img/faviconn.ico',
         },
         items: [
           {
@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Product',
           },
-          {to: '/blog', label: 'ERP Connectors', position: 'left'},
+          {to: '/blog', label: 'ERP Services', position: 'left'},
           //{to: '/blog', label: 'Services', position: 'left'},
          // {to: '/blog', label: 'Pricing', position: 'left'},
      
