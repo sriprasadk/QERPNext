@@ -8,9 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'QuestArc ERP Suite',
+  title: 'QuestArc ERP',
   tagline: 'We bring the Cloud Native ERP to your Business.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/faviconn.ico',
 
   // Set the production url of your site here
   url: 'https://qerpn-ext.vercel.app/',
@@ -69,7 +69,7 @@ const config = {
         title: 'QuestArc ERP',
         logo: {
           alt: 'QuestArc ERP Logo',
-          src: 'img/logo.svg',
+          src: 'img/questarcerp.jpg',
         },
         items: [
           {
@@ -117,18 +117,18 @@ const config = {
             ],
           },
           {
-            title: 'Cloud',
+            title: 'QuestArc ERP Supports',
             items: [
               {
-                label: 'Google',
+                label: 'Google API',
                 href: 'https://developers.google.com/apis-explorer',
               },
               {
-                label: 'AWS',
+                label: 'AWS API',
                 href: 'https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html',
               },
               {
-                label: 'Azure',
+                label: 'Azure API',
                 href: 'https://azure.microsoft.com/en-us/products/api-management',
               },
             ],
@@ -142,7 +142,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/',
               },
             ],
           },

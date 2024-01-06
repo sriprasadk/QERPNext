@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            ERPNext Tutorial - 5min ⏱️
+            QuestArc ERP Suite - 5min ⏱️
           </Link>
         </div>
       </div>
