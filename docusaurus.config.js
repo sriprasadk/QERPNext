@@ -78,11 +78,11 @@ const config = {
             position: 'left',
             label: 'Product',
           },
-          {to: '/blog', label: 'ERP Modules', position: 'left'},
-          {to: '/blog', label: 'Services', position: 'left'},
-          {to: '/blog', label: 'Pricing', position: 'left'},
+          {to: '/blog', label: 'ERP Connectors', position: 'left'},
+          //{to: '/blog', label: 'Services', position: 'left'},
+         // {to: '/blog', label: 'Pricing', position: 'left'},
      
-          {to: '/blog', label: 'About Us', position: 'left'},
+          {to: '/blog/aboutus', label: 'About Us', position: 'left'},
 
           
           {

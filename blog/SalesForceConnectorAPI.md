@@ -1,11 +1,11 @@
 ---
-slug: mdx-blog-post
-title: MDX Blog Post
+slug: SalesForce ERP Connector
+title: SalesForce ERP Connector
 authors: [Sri]
 tags: [SalesForce Connector API]
 ---
 
-SalesForce Connector API [Python Flask].
+SalesForce Connector API.
 
 :::tip
 
@@ -13,7 +13,6 @@ Install Python Flask, requests
 ```js
  pip install Flask requests
  ``` 
-:::tip
 Python Script to connect to SalesForce Instance
 
 ```js
@@ -81,5 +80,4 @@ python salesforce_connector_api.py
 Test the API.  Use a tool like curl or Postman to test the API by sending a POST request with ERP data to http://localhost:5000/sync_data
 ```js
 curl -X POST -H "Content-Type: application/json" -d '{"ProductName": "Product123", "ProductDescription": "Description123"}' http://localhost:5000/sync_data
- ``` 
-:::tip
+ ```
