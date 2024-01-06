@@ -82,7 +82,7 @@ const config = {
           //{to: '/blog', label: 'Services', position: 'left'},
          // {to: '/blog', label: 'Pricing', position: 'left'},
      
-          {to: '/blog/aboutus', label: 'About Us', position: 'left'},
+        //  {to: '/blog/aboutus', label: 'About Us', position: 'left'},
 
           
           {
