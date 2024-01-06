@@ -1,7 +1,7 @@
 ---
 slug: long-blog-post
 title: Long Blog Post
-authors: Yangshun Tay
+authors: Yangshun
 tags: [hello, docusaurus]
 ---
 
