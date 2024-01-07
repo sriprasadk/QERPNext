@@ -78,15 +78,12 @@ const config = {
             position: 'left',
             label: 'Product',
           },
-          {to: '/blog', label: 'ERP Services', position: 'left'},
-          //{to: '/blog', label: 'Services', position: 'left'},
+          {to: '/blog/ERPServices', label: 'Services', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
          // {to: '/blog', label: 'Pricing', position: 'left'},
-     
         //  {to: '/blog/aboutus', label: 'About Us', position: 'left'},
-
-          
-          {
-            href: 'https://github.com/facebook/docusaurus',
+           {
+            href: 'https://github.com',
             label: 'GitHub',
             position: 'right',
           },
