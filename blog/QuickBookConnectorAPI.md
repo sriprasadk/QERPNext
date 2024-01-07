@@ -1,6 +1,6 @@
 ---
-slug: QuickBook API
-title: Quick Book API
+slug: QuickBook ERP Connector API
+title: Quick ERP Connector API
 authors: Sri
 tags: [QuickBook API Connector]
 ---

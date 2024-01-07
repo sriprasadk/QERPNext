@@ -69,7 +69,7 @@ const config = {
         title: 'QuestArc ERP',
         logo: {
           alt: '',
-          src: 'img/faviconn.ico',
+          src: 'img/faviconnpng.png',
         },
         items: [
           {
