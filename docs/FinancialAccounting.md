@@ -1,4 +1,4 @@
-# ERP Account Management Database Tables
+# ERP Account Management Module
 
 This documentation outlines the database tables related to account management in our ERP system.  These are templates and can be customized.
 

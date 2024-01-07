@@ -1,4 +1,4 @@
-# ERP Order Management: Purchase and Sale
+# ERP Order Management
 
 This documentation outlines the order management process for both purchase and sale transactions in our ERP system.
 

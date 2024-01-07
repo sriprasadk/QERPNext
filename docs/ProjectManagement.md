@@ -1,4 +1,4 @@
-# ERP Project Management Module
+# ERP Project Management
 
 This documentation outlines the functionalities and components of the Project Management module within our ERP system.
 

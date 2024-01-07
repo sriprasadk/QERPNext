@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'QuestArc ERP',
-  tagline: 'We bring the Cloud Native ERP to your Business.',
+  tagline: 'QuestArc ERP is an Engineering and IT services company, specialied in Cloud Native ERP Solutions.',
   favicon: 'img/faviconn.ico',
 
   // Set the production url of your site here
